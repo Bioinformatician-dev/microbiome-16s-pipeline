@@ -1,0 +1,6 @@
+# System-level bioinformatics tools required (install via apt on Debian/Ubuntu)
+
+sudo apt-get update
+sudo apt-get install -y vsearch cutadapt fastqc
+
+# Python dependencies: pip install -r requirements.txt
