@@ -153,7 +153,7 @@ Large fully-regeneratable intermediates (trimmed/merged FASTQ, per-file
 FastQC reports) are excluded via `.gitignore` — rerun `run_pipeline.sh` to
 recreate them.
 
-## 5. Honest limitations
+## 5. Limitations
 
 - **n=2 per group.** This is CI-test-scale data (small on purpose, for
   pipeline speed). All group-comparison statistics are reported but should
