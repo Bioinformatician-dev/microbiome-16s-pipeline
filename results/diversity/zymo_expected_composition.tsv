@@ -1,0 +1,11 @@
+genus_species	log_expected_percentage_per-taxon
+Listeria monocytogenes	89.1
+Pseudomonas aeruginosa	8.9
+Saccharomyces cerevisiae	0.89
+Bacillus subtilis	0.89
+Salmonella enterica	0.089
+Escherichia coli	0.089
+Lactobacillus fermentum	0.0089
+Cryptococcus neoformans	0.00089
+Enterococcus faecalis	0.00089
+Staphylococcus aureus	8.9e-05

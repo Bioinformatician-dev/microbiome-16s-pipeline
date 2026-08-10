@@ -1,0 +1,31 @@
+vsearch v2.27.0_linux_x86_64, 3.9GB RAM, 1 cores
+https://github.com/torognes/vsearch
+
+Merging reads 100%
+      2350  Pairs
+      2028  Merged (86.3%)
+       322  Not merged (13.7%)
+
+Pairs that failed merging due to various reasons:
+       220  too many differences
+       102  alignment score too low, or score drop too high
+
+Statistics of all reads:
+    229.59  Mean read length
+
+Statistics of merged reads:
+    253.12  Mean fragment length
+      0.58  Standard deviation of fragment length
+      0.50  Mean expected error in forward sequences
+      0.55  Mean expected error in reverse sequences
+      0.17  Mean expected error in merged sequences
+      0.50  Mean observed errors in merged region of forward sequences
+      0.58  Mean observed errors in merged region of reverse sequences
+      1.09  Mean observed errors in merged region
+WARNING: The fastq_filter command does not support multithreading.
+Only 1 thread used.
+vsearch v2.27.0_linux_x86_64, 3.9GB RAM, 1 cores
+https://github.com/torognes/vsearch
+
+Reading input file 100%
+1918 sequences kept (of which 0 truncated), 110 sequences discarded.

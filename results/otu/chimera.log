@@ -1,0 +1,14 @@
+vsearch v2.27.0_linux_x86_64, 3.9GB RAM, 1 cores
+https://github.com/torognes/vsearch
+
+Reading file ./scripts/../results/otu/asvs_raw.fasta 100%
+67719 nt in 267 seqs, min 252, max 289, avg 254
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 0 (0.0%) chimeras, 267 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 267 unique sequences.
+Taking abundance information into account, this corresponds to
+0 (0.0%) chimeras, 3904 (100.0%) non-chimeras,
+and 0 (0.0%) borderline sequences in 3904 total sequences.

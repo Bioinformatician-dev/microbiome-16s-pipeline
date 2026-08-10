@@ -1,0 +1,10 @@
+WARNING: The derep_fulllength command does not support multithreading.
+Only 1 thread used.
+vsearch v2.27.0_linux_x86_64, 3.9GB RAM, 1 cores
+https://github.com/torognes/vsearch
+
+Dereplicating file ./scripts/../results/otu/merged/all_samples.filtered.fasta 100%
+1878307 nt in 7407 seqs, min 252, max 300, avg 254
+Sorting 100%
+3070 unique sequences, avg cluster 2.4, median 1, max 389
+Writing FASTA output file 100%

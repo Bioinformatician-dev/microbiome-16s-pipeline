@@ -1,0 +1,10 @@
+vsearch v2.27.0_linux_x86_64, 3.9GB RAM, 1 cores
+https://github.com/torognes/vsearch
+
+Reading file ./scripts/../data/reference/zymo_mock_reference.fasta 100%
+40266 nt in 26 seqs, min 1386, max 1646, avg 1549
+Masking 100%
+Counting k-mers 100%
+Creating k-mer index 100%
+Searching 100%
+Matching unique query sequences: 89 of 267 (33.33%)

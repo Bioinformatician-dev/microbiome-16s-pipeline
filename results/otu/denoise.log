@@ -1,0 +1,14 @@
+vsearch v2.27.0_linux_x86_64, 3.9GB RAM, 1 cores
+https://github.com/torognes/vsearch
+
+Reading file ./scripts/../results/otu/uniques.fasta 100%
+68732 nt in 271 seqs, min 252, max 289, avg 254
+minsize 4: 2799 sequences discarded.
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Clustering 100%
+Sorting clusters 100%
+Writing clusters 100%
+Clusters: 267 Size min 1, max 2, avg 1.0
+Singletons: 263, 97.0% of seqs, 98.5% of clusters

@@ -1,0 +1,11 @@
+vsearch v2.27.0_linux_x86_64, 3.9GB RAM, 1 cores
+https://github.com/torognes/vsearch
+
+Reading file ./scripts/../results/otu/asvs.fasta 100%
+67719 nt in 267 seqs, min 252, max 289, avg 254
+Masking 100%
+Counting k-mers 100%
+Creating k-mer index 100%
+Searching 100%
+Matching unique query sequences: 4943 of 7407 (66.73%)
+Writing OTU table (classic) 100%

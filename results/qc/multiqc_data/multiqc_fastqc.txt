@@ -1,0 +1,9 @@
+Sample	Filename	File type	Encoding	Total Sequences	Total Bases	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	median_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+sampleID_1_R1	sampleID_1_R1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2500.0	487.3 kbp	0.0	35-250	53.0	24.759999999999998	194.2864	247	pass	fail	fail	fail	fail	fail	warn	fail	fail	pass
+sampleID_1_R2	sampleID_1_R2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2500.0	489.4 kbp	0.0	35-250	52.0	35.28	194.991	247	pass	fail	fail	fail	fail	fail	warn	fail	fail	pass
+sampleID_1a_R1	sampleID_1a_R1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2500.0	607.5 kbp	0.0	35-250	53.0	49.68	242.2148	247	pass	fail	pass	fail	fail	pass	warn	fail	fail	pass
+sampleID_1a_R2	sampleID_1a_R2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2500.0	607.6 kbp	0.0	35-250	52.0	64.12	242.0312	247	pass	pass	pass	fail	fail	pass	warn	warn	fail	pass
+sampleID_2_R1	sampleID_2_R1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2500.0	607.1 kbp	0.0	35-250	53.0	32.4	241.5058	247	pass	fail	pass	fail	fail	pass	warn	fail	fail	pass
+sampleID_2_R2	sampleID_2_R2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2500.0	607.2 kbp	0.0	35-250	52.0	47.44	241.4194	247	pass	fail	pass	fail	fail	pass	warn	fail	fail	pass
+sampleID_2a_R1	sampleID_2a_R1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2500.0	608.5 kbp	0.0	35-250	53.0	47.599999999999994	242.5074	247	pass	fail	pass	fail	fail	pass	warn	fail	fail	pass
+sampleID_2a_R2	sampleID_2a_R2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	2500.0	608.7 kbp	0.0	35-250	52.0	61.199999999999996	242.4086	247	pass	pass	pass	fail	fail	pass	warn	warn	fail	pass
