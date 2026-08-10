@@ -1,19 +1,17 @@
 # 16S rRNA Microbial Community Analysis Pipeline
 
 A complete, reproducible bioinformatics pipeline for 16S rRNA amplicon
-sequencing data — from **raw FASTQ download** to **diversity statistics and
-figures** — built entirely on real, publicly available sequencing data.
+sequencing data — from raw FASTQ download to diversity statistics and
+figures built entirely on real, publicly available sequencing data.
 
-No simulated reads, no toy data: every FASTQ file, reference sequence, and
-metadata record here comes from a real Illumina MiSeq sequencing run of a
-real, commercially defined microbial standard.
+
 
 ---
 
 ## 1. Dataset
 
 This pipeline analyzes real paired-end MiSeq 16S rRNA (V4 region, 515F/806R
-primers) sequencing reads of the **ZymoBIOMICS Microbial Community Standard**
+primers) sequencing reads of the ZymoBIOMICS Microbial Community Standard
 (catalog D6305/D6311) — a defined mock community of 8 bacterial and 2 fungal
 species with a known genomic-DNA composition, commonly used to benchmark
 amplicon pipelines.
