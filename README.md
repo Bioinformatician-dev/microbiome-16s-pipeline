@@ -1,7 +1,7 @@
 # 16S rRNA Microbial Community Analysis Pipeline
 
 A complete, reproducible bioinformatics pipeline for 16S rRNA amplicon
-sequencing data — from raw FASTQ download to diversity statistics and
+sequencing data  from raw FASTQ download to diversity statistics and
 figures built entirely on real, publicly available sequencing data.
 
 
